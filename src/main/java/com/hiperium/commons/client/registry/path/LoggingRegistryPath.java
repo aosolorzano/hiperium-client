@@ -24,8 +24,8 @@ public final class LoggingRegistryPath {
 	// ***************************************************************** //
 	// ***************************************************************** //
 
-	/** The property BASE_PATH with value /services/audit. */
-	public static final String BASE_PATH = "/services/audit";
+	/** The property BASE_PATH with value /services/logging. */
+	public static final String BASE_PATH = "/services/logging";
 
 	// ***************************************************************** //
 	// ***************************************************************** //
@@ -36,10 +36,4 @@ public final class LoggingRegistryPath {
 	/** The UPDATE_HOME_SELECTION property path. */
 	public static final String CREATE_DEVICE_AUDIT = "createDeviceAudit";
 	
-	/** The FIND_USER_STATISTIC_BY_USER_ID property path. */
-	public static final String FIND_USER_STATISTIC_BY_USER_ID = "findUserStatisticByUserId";
-
-	/** The UPDATE_LAST_USER_PASS_BY_USER_ID property path. */
-	public static final String UPDATE_LAST_USER_PASS_BY_USER_ID = "updateLastUserPassByUserId";
-
 }
