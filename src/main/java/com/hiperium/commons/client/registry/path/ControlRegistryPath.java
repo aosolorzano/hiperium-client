@@ -42,7 +42,10 @@ public final class ControlRegistryPath {
 	/** The FIND_DEVICE_BY_CLASS property path. */
 	public static final String FIND_DEVICE_BY_CLASS = "findDeviceByClass";
 
-	/** The DEVICE_HOME_OPERATION property path. */
+	/** The DEVICE_USER_OPERATION property path deviceUserOperation. */
+	public static final String DEVICE_USER_OPERATION = "deviceUserOperation";
+	
+	/** The DEVICE_HOME_OPERATION property path deviceHomeOperation. */
 	public static final String DEVICE_HOME_OPERATION = "deviceHomeOperation";
 
 	/** The CREATE_TASK property name. */
