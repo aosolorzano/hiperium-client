@@ -16,7 +16,7 @@ package com.hiperium.commons.client.registry.path;
  * @author Andres Solorzano
  *
  */
-public final class ControlRegistryPath {
+public final class DeviceRegistryPath {
 
 	// ***************************************************************** //
 	// ***************************************************************** //
@@ -24,8 +24,8 @@ public final class ControlRegistryPath {
 	// ***************************************************************** //
 	// ***************************************************************** //
 
-	/** The property BASE_PATH with value /services/control. */
-	public static final String BASE_PATH = "/services/control";
+	/** The property BASE_PATH with value /services/device. */
+	public static final String BASE_PATH = "/services/device";
 
 	// ***************************************************************** //
 	// ***************************************************************** //
