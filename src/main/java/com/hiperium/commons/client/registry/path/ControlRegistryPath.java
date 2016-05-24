@@ -47,6 +47,9 @@ public final class ControlRegistryPath {
 	
 	/** The DEVICE_HOME_OPERATION property path deviceHomeOperation. */
 	public static final String DEVICE_HOME_OPERATION = "deviceHomeOperation";
+	
+	/** The GATEWAY_FIND_DEVICE_BY_HOME_ID property path gatewayFindDeviceByHomeId. */
+	public static final String GATEWAY_FIND_DEVICE_BY_HOME_ID = "gatewayFindDeviceByHomeId";
 
 	/** The CREATE_TASK property name. */
 	public static final String CREATE_TASK = "createTask";
