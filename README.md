@@ -4,7 +4,7 @@ Author: Andres Solorzano.
 Level: Basic. 
 Technologies: Bean Validation, HTTP Client and GSON. 
 Summary: This project is a client utility for microservices communication. 
-Target Product: Java 8. 
+Target Product: Java 8.    
 Source: <https://bitbucket.org/hiperium-project/hiperium-client/src>
 
 What is it?
