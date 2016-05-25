@@ -1,10 +1,10 @@
 Hiperium Project: Platform for the Internet of Things.
 ========================
-Author: Andres Solorzano.
-Level: Basic.
-Technologies: Bean Validation, HTTP Client and GSON.
-Summary: This project is a client utility for microservices communication.  
-Target Product: Java 8.
+Author: Andres Solorzano. 
+Level: Basic. 
+Technologies: Bean Validation, HTTP Client and GSON. 
+Summary: This project is a client utility for microservices communication. 
+Target Product: Java 8. 
 Source: <https://bitbucket.org/aosolorzano/hiperium-client>
 
 What is it?
