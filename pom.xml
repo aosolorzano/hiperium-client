@@ -74,12 +74,12 @@
 	<distributionManagement>
 		<repository>
 			<id>hiperium</id>
-			<name>Hiperium Common Releases</name>
+			<name>Hiperium Project Releases</name>
 			<url>http://repository-hiperium.rhcloud.com/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>hiperium</id>
-			<name>Hiperium Common Snapshots</name>
+			<name>Hiperium Project Snapshots</name>
 			<url>http://repository-hiperium.rhcloud.com/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
