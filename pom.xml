@@ -115,12 +115,6 @@
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
 		</dependency>
-		<!-- APACHE CURATOR - SERVICE REGISTRY CLIENT FOR ZOOKEEPER -->
-		<dependency>
-			<groupId>org.apache.curator</groupId>
-			<artifactId>curator-x-discovery</artifactId>
-			<version>2.9.1</version>
-		</dependency>
 		<!-- APACHE LOG4J -->
 		<dependency>
 			<groupId>log4j</groupId>
